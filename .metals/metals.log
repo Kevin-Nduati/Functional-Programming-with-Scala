@@ -15,3 +15,22 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.04.20 20:38:11 INFO  Shutting down server
 2023.04.20 20:38:11 INFO  shutting down Metals
 2023.04.20 20:38:11 INFO  Exiting server
+2023.05.09 15:44:27 INFO  Started: Metals version 0.11.12 in workspace '/home/kevin/Desktop/Github projects/Functional-Programming-with-Scala' for client Visual Studio Code 1.78.0.[0m
+May 09, 2023 3:44:27 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+May 09, 2023 3:44:27 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+May 09, 2023 3:44:27 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+May 09, 2023 3:44:28 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/home/kevin/Desktop/Github projects/Functional-Programming-with-Scala/.metals/metals (H2 2.1)
+May 09, 2023 3:44:29 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.088s)
+May 09, 2023 3:44:29 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+May 09, 2023 3:44:29 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.09 15:44:29 INFO  time: initialize in 1.69s[0m
+2023.05.09 15:44:34 WARN  Build server is not auto-connectable.[0m
+2023.05.09 15:44:34 WARN  no build tool detected in workspace '/home/kevin/Desktop/Github projects/Functional-Programming-with-Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.05.09 15:44:34 WARN  no build target for: /home/kevin/Desktop/Github projects/Functional-Programming-with-Scala/functional-programming/src/main/scala/Main.scala[0m
